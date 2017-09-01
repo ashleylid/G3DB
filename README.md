@@ -3,7 +3,7 @@
 This is the main repository for generation of the G3DB (Grasping 3D database)
 
 ***
-*still under construction, but if you ignore all the scripts and focus on what is listed here it has been shown to work out of the box. (please ask if you have any questions)*
+*Still under construction, but if you ignore all the scripts and focus on what is listed here it has been shown to work out of the box. (Please feel free to contact me if you have any questions at grasping3db-at-gmail-dot-com)*
 ***
 
 __Prerequisites__
