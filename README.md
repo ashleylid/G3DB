@@ -43,7 +43,7 @@ The first run of every object will record an unmorphed version of the object aft
 The code is available under the Apache 2.0 license. If you use this code in a publication, please cite:
 
 
-A. Kleinhans, D. Sabatta, M. Michalik, B. Rosman, R. Detry and B. Tripp. G3DB: _A Database of Simulated Robot Grasps with Images, Morphed Mesh Models and Robotic Hand Parameters_. Under review
+A. Kleinhans, D. Sabatta, M. Michalik, B. Rosman, R. Detry and B. Tripp. G3DB: _A Database of Simulated Robot Grasps with Images, Morphed Mesh Models and Robotic Hand Parameters_. Under review. Can be found here: [G3DB paper](http://drive.google.com/open?id=0B_4k6ZgOsZ1KVlF2M29Jd04zNGs)
 
  
 
